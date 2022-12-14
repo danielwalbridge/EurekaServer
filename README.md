@@ -2,7 +2,6 @@
 
 
 I have packaged 3 microservices together to get this app to work.
-You should see 4 packages:
 ConsolApp
 EurekaServer
 serverApp
